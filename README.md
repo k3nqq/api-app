@@ -1,4 +1,4 @@
-# finances_application
+# api-app
 
 A new Flutter project.
 
